@@ -1,3 +1,3 @@
 # WyvernOS
 
-An homemade linux-based operating system.
+A homemade linux-based operating system.
