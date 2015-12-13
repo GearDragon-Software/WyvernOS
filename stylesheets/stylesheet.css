@@ -133,21 +133,6 @@ strong {
   font-weight: bold;
 }
 
-img {
-  position: relative;
-  margin: 0 auto;
-  max-width: 739px;
-  padding: 5px;
-  margin: 10px 0 10px 0;
-  border: 1px solid #ebebeb;
-
-  box-shadow: 0 0 5px #ebebeb;
-  -webkit-box-shadow: 0 0 5px #ebebeb;
-  -moz-box-shadow: 0 0 5px #ebebeb;
-  -o-box-shadow: 0 0 5px #ebebeb;
-  -ms-box-shadow: 0 0 5px #ebebeb;
-}
-
 p img {
   display: inline;
   margin: 0;
@@ -301,6 +286,17 @@ Full-Width Styles
 
 #project_title {
   margin: 0;
+  margin-top: 50px;
+  color: #fff;
+  font-size: 42px;
+  font-weight: 700;
+  text-shadow: #111 0px 0px 10px;
+}
+
+#project_image {
+  margin-left: -200px;
+  margin-top: -29px;
+  width: 200px;
   color: #fff;
   font-size: 42px;
   font-weight: 700;
